@@ -1,3 +1,4 @@
+basic.showString("Boldly go!")
 basic.forever(function () {
 	
 })
